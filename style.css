@@ -3,6 +3,7 @@
 #art-main
 {
    background: #FFFFFF url('images/page.jpeg') no-repeat fixed;
+	 background-attachment : fixed ;
    margin:0 auto;
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
